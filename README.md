@@ -1,2 +1,2 @@
-# smart_home_microcontroller
+# smart_home_microcontrollers
 Microcontrollers software for smart_home
